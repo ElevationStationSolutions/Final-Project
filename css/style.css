@@ -34,7 +34,7 @@ input[type="submit"],input[type="reset"],.w3layouts_mail_grid_left1,.w3layouts_m
 }
 /*-- banner --*/
 .banner{
-	background:url(https://lh5.googleusercontent.com/sEId3vBkIDTEb9NG2giMjiTSsakpeWPO0RSEHfLZl8c1Q1C_eieDZ0jtZHTqwDSfz9eIWnq_0B_ufVg=w1366-h658-rw) no-repeat 0px 0px;
+	background:url(../images/Gen2.jpeg) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -510,7 +510,6 @@ p.augue_agile:after{
 	font-size: 1.2em;
     line-height: 45px;
     padding-left: 0.6em;
-    background: url(../images/1.png) no-repeat 0px 0px;
     color: #fff;
 }
 .footer h2 {
